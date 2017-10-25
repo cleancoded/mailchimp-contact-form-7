@@ -1,5 +1,5 @@
 === Mailchimp Integration with Contact Form 7 ===
-Plugin URI: https://github.com/cleancoded/mailchip-contact-form-7
+Plugin URI: https://github.com/cleancoded/mailchimp-contact-form-7
 Tags: contact form 7, email, mailing list, createsend, mandrill, renzo, renzo johnson, cme, contact, form, contact form, mail chimp, newsletter, mailchimp, chimpmail
 Requires at least: 4.2
 Tested up to: 4.3
